@@ -1,0 +1,13 @@
+* {
+    background-color: #5bd4c1;
+}
+
+#input-container {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#input, #btn {
+    background-color: azure;
+    border-radius: 5px;
+}

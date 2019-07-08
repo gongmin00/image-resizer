@@ -1,0 +1,20 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "description": "module to resize image ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resize",
+    "image"
+  ],
+  "author": "Min Gong",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "image-size": "^0.7.4",
+    "resize-img": "^1.1.2"
+  }
+}
